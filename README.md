@@ -10,3 +10,11 @@
 ![PRsWelcome](https://img.shields.io/badge/PRs-welcome-informational)
 
 A cheat sheet or crib sheet is a concise set of notes used for quick reference.
+
+## Table of Contents
+- [Algorithm](https://github.com/smriti1313/Cheat-Sheets/blob/master/Algorithms/Algorithms.pdf)
+- [C#](https://github.com/smriti1313/Cheat-Sheets/blob/master/C%23/README.md)
+- [C++](https://github.com/sandeep1324/Cheat-Sheets/blob/master/C%2B%2B/Cpp.pdf)
+- [Images](Images//README.md)
+- [Java](https://github.com/smriti1313/Cheat-Sheets/blob/master/Java/README.md)
+- [Python](Python/README.md)
